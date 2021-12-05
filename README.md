@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Vitor.
 
 • 📚 Estudando Front-end
-<p>• 🌎 Altualmente estou no 1 anos do ensino médio</p>
+<p>• 🌎 Atualmente estou no 1 ano do ensino médio</p>
 
 
 <div align="center">
